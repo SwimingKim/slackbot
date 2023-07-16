@@ -1,4 +1,2 @@
-slack_sdk
 slack_bolt
 dotenv
-aiohttp
